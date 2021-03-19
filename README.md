@@ -11,5 +11,7 @@ Por supuesto, utilicé además las principales librerías para análisis y visua
 • Pandas.
 • Matplotlib.
 
+Para ver el resultado, simplemente hagan click en el archivo "Procesamiento de Lenguaje Natural (pequeño ejercicio)".
+
 Espero que lo disfruten,
 Dan.
